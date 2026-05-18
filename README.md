@@ -17,6 +17,8 @@ My recipe
 
 ## Instructions
 
+Serves: 1
+
 1. Put the slice of bread into a toaster, toaster oven, or other source of heat.
 1. Push the toaster lever down, turn the dial of the toaster oven to light brown, or otherwise activate the heat source.
 1. Let the bread turn light brown, ensuring that you remove the toast from the heat before it burns.
