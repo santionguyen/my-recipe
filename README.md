@@ -1,24 +1,46 @@
-# Buttered toast
+# Salmon soup
 
 ## Ingredients
+- Salmon
+- Potato
+- Carrot
+- Leek
+- Heavy cream
+- Fish stock
+- Herbs
 
 ### Required
 
-- 1 slice of bread
-- 1 pat of butter, room temperature
+- 400g Salmon filet, cubed
+
+- 1 Leek, sliced
+
+- 4 Potatoes, cubed
+
+- 2 Carrots, sliced
+
+- 200ml Heavy cream
+
+- 1L Fish stock
+
+- Allspice and bay leaf
 
 ### Optional
 
-- jam
+- Fresh dill, chopped
 
 ## Instructions
 
-Serves: 1
+Serves: 4
 
-1. Put the slice of bread into a toaster, toaster oven, or other source of heat.
-1. Push the toaster lever down, turn the dial of the toaster oven to light brown, or otherwise activate the heat source.
-1. Let the bread turn light brown, ensuring that you remove the toast from the heat before it burns.
-1. Spread butter uniformly over the toast.
-1. (Optional) spread jam over the buttered toast, to taste.
+1. Bring fish stock, allspice, and bay leaf to a boil in a pot.
+
+2. Add potatoes and carrots; simmer for 10 minutes.
+
+3. Add leek and salmon cubes; simmer for 5 minutes until salmon is cooked.
+
+4. Stir in heavy cream and heat through. Do not boil.
+
+5. Top with fresh dill and serve.
 
 Enjoy!
