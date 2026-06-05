@@ -1,4 +1,4 @@
-# Ideas for my recipe
+# My favorite food 
 - Orange Chicken 
 - Salmon Soup
 - Pho
