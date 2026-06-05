@@ -2,4 +2,13 @@
 - Orange Chicken 
 - Salmon Soup
 - Pho
-- Ramen
+- Hot chocolate
+## Breakfast
+- Pho
+- Fried eggs
+## Meals
+- Tacos
+- Orange chicken
+- Salmon soup
+## Drinks
+- Hot chocolate
